@@ -1,62 +1,15 @@
 #EXTM3U
-#EXTINF:-1,Titanes, hicieron historia , GROUP-TITLE="2000"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067782.mkv
-#EXTINF:-1,The Last Shift , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067783.mkv
-#EXTINF:-1,La guerra más larga , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067784.mkv
-#EXTINF:-1,Buio , GROUP-TITLE="2019"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067785.mkv
-#EXTINF:-1,The Minimalists: Less Is Now , GROUP-TITLE="2021"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067786.mkv
-#EXTINF:-1,Shadow in the Cloud , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067794.mkv
-#EXTINF:-1,Borning: Asfalto en llamas , GROUP-TITLE="2020"
+#EXTINF:-1,GROUP-TITLE="2020",Borning: Asfalto en llamas
 http://tv.nousiptv.com:8080/movie/Lucy/123456/1067901.mkv
-#EXTINF:-1,El señor de los anillos: La comunidad del anillo , GROUP-TITLE="2001"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067984.mkv
-#EXTINF:-1,El señor de los anillos: Las dos torres , GROUP-TITLE="2002"
+#EXTINF:-1,GROUP-TITLE="2002",El señor de los anillos: Las dos torres
 http://tv.nousiptv.com:8080/movie/Lucy/123456/1067985.mkv
-#EXTINF:-1,El señor de los anillos: El retorno del rey , GROUP-TITLE="2003"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067986.mkv
-#EXTINF:-1,The Margarita Man , GROUP-TITLE="2019"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1068038.mkv
-#EXTINF:-1,The Shed , GROUP-TITLE="2019"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1068039.mkv
-#EXTINF:-1,Promising Young Woman , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1068040.mkv
-#EXTINF:-1,La Asistente , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1068041.mkv
-#EXTINF:-1,Fragmentos de una mujer , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1068042.mkv
-#EXTINF:-1,Sound of Metal , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1068043.mkv
-#EXTINF:-1,Centigrade , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1068067.mkv
-#EXTINF:-1,Huachicolero , GROUP-TITLE="2019"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067463.mkv
-#EXTINF:-1,Soul , group-TITLE="2020"
+#EXTINF:-1,group-TITLE="2020", Soul
 http://tv.nousiptv.com:8080/movie/Lucy/123456/1067445.mp4
-#EXTINF:-1,Combat Wombat , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067464.mkv
-#EXTINF:-1,Project X , GROUP-TITLE="2012"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067465.mp4
-#EXTINF:-1,La lectora , GROUP-TITLE="2017"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067777.mkv
-#EXTINF:-1,La Última Fase , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067778.mkv
-#EXTINF:-1,La posesión de Mercy Black , GROUP-TITLE="2019"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067779.mkv
-#EXTINF:-1,My Mexican Bretzel , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067780.mkv
-#EXTINF:-1,A la mierda el 2020 , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067781.mkv
-#EXTINF:-1,The Curse of Audrey Earnshaw , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067143.mkv
-#EXTINF:-1,Wonder Woman 1984 , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067446.mkv
+#EXTINF:-1,group-TITLE="2020", Los Nuevos Mutantes
+http://player.flumx.mx/Moviesmp4/los-nuevos-mutantes.mp4
 #EXTINF:-1,Superniños , group-TITLE="2020"
 http://tv.nousiptv.com:8080/movie/Lucy/123456/1067448.mkv
+
 #EXTINF:-1,La pachanga , GROUP-TITLE="2019"
 http://tv.nousiptv.com:8080/movie/Lucy/123456/1067452.mkv
 #EXTINF:-1,The Glorias , GROUP-TITLE="2020"
