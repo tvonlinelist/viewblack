@@ -1,113 +1,64 @@
 #EXTM3U
-#EXTINF:-1,GROUP-TITLE="2020",Borning: Asfalto en llamas
+#EXTINF:-1 GROUP-TITLE="2020",Borning: Asfalto en llamas
 http://tv.nousiptv.com:8080/movie/Lucy/123456/1067901.mkv
-#EXTINF:-1,GROUP-TITLE="2002",El señor de los anillos: Las dos torres
+#EXTINF:-1 GROUP-TITLE="2002",El señor de los anillos: Las dos torres
 http://tv.nousiptv.com:8080/movie/Lucy/123456/1067985.mkv
-#EXTINF:-1,group-TITLE="2020", Soul
+#EXTINF:-1 group-TITLE="2020", Soul
 http://tv.nousiptv.com:8080/movie/Lucy/123456/1067445.mp4
-#EXTINF:-1,group-TITLE="2020", Los Nuevos Mutantes
+#EXTINF:-1 group-TITLE="2020", Los Nuevos Mutantes
 http://player.flumx.mx/Moviesmp4/los-nuevos-mutantes.mp4
-#EXTINF:-1,Superniños , group-TITLE="2020"
+#EXTINF:-1 group-TITLE="2020", Superniños 
 http://tv.nousiptv.com:8080/movie/Lucy/123456/1067448.mkv
-
-#EXTINF:-1,La pachanga , GROUP-TITLE="2019"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067452.mkv
-#EXTINF:-1,The Glorias , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067453.mkv
-#EXTINF:-1,The Doorman , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067454.mkv
-#EXTINF:-1,AK vs AK , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067455.mkv
-#EXTINF:-1,After: En mil pedazos , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067456.mkv
-#EXTINF:-1,El árbol de los deseos , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067457.mkv
-#EXTINF:-1,Medio hermanos , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067458.mkv
-#EXTINF:-1,Estación zombie 2 , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067137.mkv
-#EXTINF:-1,Sylvie's Love , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067142.mkv
-#EXTINF:-1,Shortcut , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067153.mkv
-#EXTINF:-1,Skylines , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066963.mkv
-#EXTINF:-1,Para toda la vida , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067138.mkv
-#EXTINF:-1,Levantarse y caer , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067139.mkv
-#EXTINF:-1,Curious George: Go West, Go Wild , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067140.mkv
-#EXTINF:-1,Cielo de medianoche , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067141.mkv
-#EXTINF:-1,En guerra con mi abuelo , group-TITLE="2020"
+#EXTINF:-1 group-TITLE="2020", Sonic
+http://player.flumx.mx/Moviesmp4/Sonic.mp4
+#EXTINF:-1 group-TITLE="2020", El escape de pretoria
+http://player.flumx.mx/Moviesmp4/Fuga+de+Pretoria+-+Escape+From+Pretoria+(2020)
+#EXTINF:-1 group-TITLE="2020", Mulan
+http://player.flumx.mx/Moviesmp4/Mulán+-+Mulan+(2020)
+#EXTINF:-1 group-TITLE="2020", Mujer maravilla 1984
+http://flumx.mx/Moviesmp4/mujer-maravilla.mp4
+#EXTINF:-1 group-TITLE="2020", Fast-Furious 8
+http://flumx.mx/Moviesmp4/fast-furious-8.mp4
+#EXTINF:-1 group-TITLE="2020", Batman vs Superman
+http://flumx.mx/Moviesmp4/batman-v-superman-el-amanecer-de-la-justicia.mp4
+#EXTINF:-1 group-TITLE="2020", Las Brujas
+http://player.flumx.mx/Moviesmp4/Lasbrujas.mp4
+#EXTINF:-1 group-TITLE="2020", Malefica 2
+http://flumx.mx/Moviesmp4/malefica2.mp4
+#EXTINF:-1 group-TITLE="2020", Joker
+http://flumx.mx/Moviesmp4/Joker.mp4
+#EXTINF:-1 group-TITLE="2020", Los Locos Addams
+http://player.flumx.mx/Moviesmp4/La-familia-Addams.mp4
+#EXTINF:-1 group-TITLE="2020", Jefe en Pañales
+http://player.flumx.mx/Moviesmp4/Jefeenpañales.mp4
+#EXTINF:-1 group-TITLE="2020",En guerra con mi abuelo
 http://tv.nousiptv.com:8080/movie/Lucy/123456/1066860.mkv
-#EXTINF:-1,Navidades en California , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066964.mkv
-#EXTINF:-1,Druk , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066965.mkv
-#EXTINF:-1,Breach , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066966.mkv
-#EXTINF:-1,Chichipatos: ¡qué chimba de Navidad! , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066967.mkv
-#EXTINF:-1,Christmas on Ice , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066969.mkv
-#EXTINF:-1,I Hate Summer , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067006.mkv
-#EXTINF:-1,Never Kiss a Man in a Christmas Sweater , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067007.mkv
-#EXTINF:-1,The Dark and the Wicked , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067046.mkv
-#EXTINF:-1,The Reason , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067047.mkv
-#EXTINF:-1,La madre del blues , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067048.mkv
-#EXTINF:-1,Los caminos que no escogemos , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067049.mkv
-#EXTINF:-1,Jovenes y brujas , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067050.mkv
-#EXTINF:-1,Heks , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067051.mkv
-#EXTINF:-1,Chichipatos: ¡qué chimba de Navidad! , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067052.mkv
-#EXTINF:-1,Chick Fight , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067053.mkv
-#EXTINF:-1,Skylines , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067054.mkv
-#EXTINF:-1,The Kid Detective , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067094.mkv
-#EXTINF:-1,Tommaso , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067095.mkv
-#EXTINF:-1,Blizzard of Souls , GROUP-TITLE="2019"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067096.mkv
-#EXTINF:-1,Ma Rainey's Black Bottom: A Legacy Brought to Screen , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067097.mkv
-#EXTINF:-1,Excuse me, I love you , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067098.mkv
-#EXTINF:-1,Tierras altas , GROUP-TITLE="2020"
+#EXTINF:-1 group-TITLE="2020", Coco
+http://flumx.mx/Moviesmp4/coco.mp4
+#EXTINF:-1 group-TITLE="2020", Amor de Calendario
+http://player.flumx.mx/Moviesmp4/Amor+de+calendario+-+Holidate+(2020)
+#EXTINF:-1 group-TITLE="2020", La Bella y la Bestia
+http://player.flumx.mx/Moviesmp4/LaBellaylaBestia.mp4
+#EXTINF:-1 group-TITLE="2020", 365 Dias
+http://player.flumx.mx/Moviesmp4/365dias.mp4
+#EXTINF:-1 group-TITLE="2020", El Titere
+http://flumx.mx/Moviesmp4/el-titere.mp4
+#EXTINF:-1 group-TITLE="2020", IT
+http://flumx.mx/Moviesmp4/it-capitulo-2.mp4
+#EXTINF:-1 group-TITLE="2020", Infinity War
+http://flumx.mx/Moviesmp4/Avengers-Infinity-War(2018)
+#EXTINF:-1 GROUP-TITLE="2020",Tierras altas
 http://tv.nousiptv.com:8080/movie/Lucy/123456/1067099.mkv
-#EXTINF:-1,Insert Coin , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067100.mkv
-#EXTINF:-1,Make Up , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1067101.mkv
-#EXTINF:-1,Wild Mountain Thyme , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066843.mkv
-#EXTINF:-1,Anything for Jackson , group-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066861.mkv
-#EXTINF:-1,La Cara Oculta , group-TITLE="2011"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066866.mkv
-#EXTINF:-1,Ondina. Un amor para siempre , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066867.mkv
-#EXTINF:-1,No Safe Spaces , GROUP-TITLE="2019"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066868.mkv
-#EXTINF:-1,Ashley García, genius in love , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066869.mkv
-#EXTINF:-1,El capital en el siglo XXI , GROUP-TITLE="2019"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066870.mkv
-#EXTINF:-1,Navidades en California , GROUP-TITLE="2020"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066871.mkv
-#EXTINF:-1,Estaba en casa, pero... , GROUP-TITLE="2019"
-http://tv.nousiptv.com:8080/movie/Lucy/123456/1066872.mkv
+#EXTINF:-1 GROUP-TITLE="2020",Thor
+http://flumx.mx/Moviesmp4/Thor(2011)
+#EXTINF:-1 GROUP-TITLE="2020",Thor 2
+http://flumx.mx/Moviesmp4/Thor2.mp4
+#EXTINF:-1 GROUP-TITLE="2020",Thor 3
+http://flumx.mx/Moviesmp4/Thor3.mp4
+#EXTINF:-1 GROUP-TITLE="2020",Pantera Negra
+http://flumx.mx/Moviesmp4/pantera-negra.mp4
+
+
 #EXTINF:-1,Mafia Inc. , GROUP-TITLE="2020"
 http://tv.nousiptv.com:8080/movie/Lucy/123456/1066874.mkv
 #EXTINF:-1,La profesora de piano , GROUP-TITLE="2019"
